@@ -5,13 +5,13 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class NormalTest {
-//chrome
+//pc diego
 	@Test
 	public void test() {
-		assertTrue(false); 
+		assertTrue(true); 
 		assertTrue(true);
-		assertTrue(false);
-		//cambiado  
+		assertTrue(true);
+  
 	} 
 
 }
