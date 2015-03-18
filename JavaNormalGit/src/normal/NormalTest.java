@@ -10,7 +10,8 @@ public class NormalTest {
 	public void test() {
 		assertTrue(false); 
 		assertTrue(true);
-		//cambiado
+		assertTrue(false);
+		//cambiado 
 	} 
 
 }
