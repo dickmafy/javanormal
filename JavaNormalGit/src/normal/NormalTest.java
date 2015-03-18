@@ -11,6 +11,6 @@ public class NormalTest {
 		assertTrue(false); 
 		assertTrue(true);
 		//cambiado
-	}
+	} 
 
 }
