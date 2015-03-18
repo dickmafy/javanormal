@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class NormalTest {
-//test de CHROME unido
+//chrome
 	@Test
 	public void test() {
 		assertTrue(false); 
