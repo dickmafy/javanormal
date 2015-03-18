@@ -9,7 +9,8 @@ public class NormalTest {
 	@Test
 	public void test() {
 		assertTrue(false); 
-		assertTrue(true); 
+		assertTrue(true);
+		//cambiado
 	}
 
 }
