@@ -8,6 +8,7 @@ public class NormalTest {
 //test de CHROME unido
 	@Test
 	public void test() {
+		assertTrue(false); 
 		assertTrue(true); 
 	}
 
